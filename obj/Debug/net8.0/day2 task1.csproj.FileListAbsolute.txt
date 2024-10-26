@@ -1,0 +1,15 @@
+C:\Users\Officemax\source\repos\day2 task1\bin\Debug\net8.0\day2 task1.exe
+C:\Users\Officemax\source\repos\day2 task1\bin\Debug\net8.0\day2 task1.deps.json
+C:\Users\Officemax\source\repos\day2 task1\bin\Debug\net8.0\day2 task1.runtimeconfig.json
+C:\Users\Officemax\source\repos\day2 task1\bin\Debug\net8.0\day2 task1.dll
+C:\Users\Officemax\source\repos\day2 task1\bin\Debug\net8.0\day2 task1.pdb
+C:\Users\Officemax\source\repos\day2 task1\obj\Debug\net8.0\day2 task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Officemax\source\repos\day2 task1\obj\Debug\net8.0\day2 task1.AssemblyInfoInputs.cache
+C:\Users\Officemax\source\repos\day2 task1\obj\Debug\net8.0\day2 task1.AssemblyInfo.cs
+C:\Users\Officemax\source\repos\day2 task1\obj\Debug\net8.0\day2 task1.csproj.CoreCompileInputs.cache
+C:\Users\Officemax\source\repos\day2 task1\obj\Debug\net8.0\day2 task1.sourcelink.json
+C:\Users\Officemax\source\repos\day2 task1\obj\Debug\net8.0\day2 task1.dll
+C:\Users\Officemax\source\repos\day2 task1\obj\Debug\net8.0\refint\day2 task1.dll
+C:\Users\Officemax\source\repos\day2 task1\obj\Debug\net8.0\day2 task1.pdb
+C:\Users\Officemax\source\repos\day2 task1\obj\Debug\net8.0\day2 task1.genruntimeconfig.cache
+C:\Users\Officemax\source\repos\day2 task1\obj\Debug\net8.0\ref\day2 task1.dll
